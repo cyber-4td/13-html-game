@@ -1,0 +1,174 @@
+
+houhuayuan_dongwu.png
+size: 335,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die2_1
+  rotate: true
+  xy: 205, 96
+  size: 44, 39
+  orig: 46, 41
+  offset: 1, 1
+  index: -1
+die2_2
+  rotate: true
+  xy: 152, 9
+  size: 53, 83
+  orig: 55, 85
+  offset: 1, 1
+  index: -1
+die2_3
+  rotate: false
+  xy: 136, 64
+  size: 67, 76
+  orig: 69, 78
+  offset: 1, 1
+  index: -1
+hudie_chibang1
+  rotate: true
+  xy: 2, 5
+  size: 35, 54
+  orig: 37, 56
+  offset: 1, 1
+  index: -1
+hudie_chibang2
+  rotate: false
+  xy: 105, 3
+  size: 45, 49
+  orig: 47, 51
+  offset: 1, 1
+  index: -1
+hudie_shenti
+  rotate: true
+  xy: 307, 74
+  size: 28, 26
+  orig: 30, 28
+  offset: 1, 1
+  index: -1
+songshu_shenti
+  rotate: false
+  xy: 262, 72
+  size: 43, 28
+  orig: 45, 30
+  offset: 1, 1
+  index: -1
+songshu_tou
+  rotate: true
+  xy: 293, 104
+  size: 36, 34
+  orig: 38, 36
+  offset: 1, 1
+  index: -1
+songshu_tui1
+  rotate: false
+  xy: 287, 25
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+songshu_tui2
+  rotate: false
+  xy: 310, 20
+  size: 15, 16
+  orig: 17, 18
+  offset: 1, 1
+  index: -1
+songshu_tui3
+  rotate: false
+  xy: 273, 24
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+songshu_tui4
+  rotate: false
+  xy: 310, 2
+  size: 15, 16
+  orig: 17, 18
+  offset: 1, 1
+  index: -1
+songshu_wei
+  rotate: true
+  xy: 237, 24
+  size: 46, 34
+  orig: 46, 34
+  offset: 0, 0
+  index: -1
+xiaoya2_jiao1
+  rotate: false
+  xy: 256, 5
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+xiaoya2_jiao2
+  rotate: false
+  xy: 292, 7
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+xiaoya2_shenti
+  rotate: true
+  xy: 58, 2
+  size: 38, 45
+  orig: 40, 47
+  offset: 1, 1
+  index: -1
+xiaoya_jiao1
+  rotate: false
+  xy: 237, 5
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+xiaoya_jiao2
+  rotate: true
+  xy: 274, 5
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+xiaoya_shenti
+  rotate: true
+  xy: 246, 102
+  size: 38, 45
+  orig: 40, 47
+  offset: 1, 1
+  index: -1
+ya_jiao1
+  rotate: false
+  xy: 273, 38
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+ya_jiao2
+  rotate: false
+  xy: 304, 38
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+ya_shenti
+  rotate: true
+  xy: 2, 42
+  size: 98, 68
+  orig: 116, 68
+  offset: 0, 0
+  index: -1
+ya_tou
+  rotate: false
+  xy: 72, 54
+  size: 62, 86
+  orig: 93, 99
+  offset: 18, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 205, 72
+  size: 55, 22
+  orig: 57, 24
+  offset: 1, 1
+  index: -1

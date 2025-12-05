@@ -1,0 +1,125 @@
+
+staff_27.png
+size: 252,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+miantiao
+  rotate: true
+  xy: 2, 26
+  size: 114, 45
+  orig: 114, 45
+  offset: 0, 0
+  index: -1
+miaoshifu_1
+  rotate: true
+  xy: 124, 2
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+miaoshifu_10
+  rotate: true
+  xy: 49, 65
+  size: 75, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+miaoshifu_11
+  rotate: true
+  xy: 200, 77
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+miaoshifu_12
+  rotate: true
+  xy: 89, 72
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+miaoshifu_13
+  rotate: false
+  xy: 2, 3
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+miaoshifu_14
+  rotate: false
+  xy: 31, 3
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+miaoshifu_15
+  rotate: true
+  xy: 180, 45
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+miaoshifu_16
+  rotate: true
+  xy: 217, 21
+  size: 26, 28
+  orig: 26, 29
+  offset: 0, 1
+  index: -1
+miaoshifu_2
+  rotate: false
+  xy: 60, 5
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+miaoshifu_3
+  rotate: false
+  xy: 89, 66
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+miaoshifu_4
+  rotate: true
+  xy: 147, 77
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+miaoshifu_5
+  rotate: false
+  xy: 88, 27
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+miaoshifu_6
+  rotate: true
+  xy: 93, 7
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+miaoshifu_7
+  rotate: true
+  xy: 217, 49
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+miaoshifu_8
+  rotate: false
+  xy: 49, 26
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+miaoshifu_9
+  rotate: false
+  xy: 180, 8
+  size: 11, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1

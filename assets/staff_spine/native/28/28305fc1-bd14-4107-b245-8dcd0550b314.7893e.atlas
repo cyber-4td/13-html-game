@@ -1,0 +1,153 @@
+
+staff_104.png
+size: 237,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lida_40
+  rotate: true
+  xy: 191, 52
+  size: 24, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+lida_42
+  rotate: false
+  xy: 60, 3
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+money
+  rotate: false
+  xy: 169, 5
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+sleep_eye
+  rotate: false
+  xy: 78, 4
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+ztsell_1
+  rotate: true
+  xy: 227, 41
+  size: 7, 8
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+ztsell_10
+  rotate: false
+  xy: 196, 7
+  size: 19, 25
+  orig: 20, 25
+  offset: 1, 0
+  index: -1
+ztsell_11
+  rotate: true
+  xy: 217, 7
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+ztsell_12
+  rotate: false
+  xy: 133, 33
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+ztsell_13
+  rotate: false
+  xy: 173, 41
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+ztsell_14
+  rotate: true
+  xy: 85, 16
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+ztsell_15
+  rotate: false
+  xy: 214, 50
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+ztsell_16
+  rotate: true
+  xy: 191, 34
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+ztsell_17
+  rotate: false
+  xy: 214, 37
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+ztsell_2
+  rotate: true
+  xy: 217, 20
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+ztsell_3
+  rotate: false
+  xy: 28, 5
+  size: 30, 5
+  orig: 31, 5
+  offset: 1, 0
+  index: -1
+ztsell_4
+  rotate: false
+  xy: 2, 3
+  size: 24, 7
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+ztsell_5
+  rotate: false
+  xy: 173, 34
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+ztsell_6
+  rotate: true
+  xy: 94, 4
+  size: 10, 40
+  orig: 10, 40
+  offset: 0, 0
+  index: -1
+ztsell_7
+  rotate: false
+  xy: 2, 12
+  size: 81, 64
+  orig: 81, 64
+  offset: 0, 0
+  index: -1
+ztsell_8
+  rotate: true
+  xy: 133, 22
+  size: 9, 34
+  orig: 10, 34
+  offset: 1, 0
+  index: -1
+ztsell_9
+  rotate: true
+  xy: 136, 2
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1

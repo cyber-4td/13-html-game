@@ -1,0 +1,27 @@
+
+HardLevel.png
+size: 568,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dachu
+  rotate: false
+  xy: 2, 2
+  size: 367, 337
+  orig: 367, 337
+  offset: 0, 0
+  index: -1
+dachu-hand
+  rotate: false
+  xy: 371, 186
+  size: 146, 153
+  orig: 146, 153
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 2, 341
+  size: 564, 246
+  orig: 564, 246
+  offset: 0, 0
+  index: -1

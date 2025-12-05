@@ -1,0 +1,132 @@
+
+chaoguo.png
+size: 171,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cai_1
+  rotate: false
+  xy: 2, 126
+  size: 72, 52
+  orig: 74, 54
+  offset: 1, 1
+  index: -1
+cai_10
+  rotate: false
+  xy: 107, 6
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+cai_11
+  rotate: false
+  xy: 107, 32
+  size: 30, 34
+  orig: 32, 36
+  offset: 1, 1
+  index: -1
+cai_2
+  rotate: false
+  xy: 140, 134
+  size: 20, 16
+  orig: 22, 18
+  offset: 1, 1
+  index: -1
+cai_3
+  rotate: false
+  xy: 133, 16
+  size: 13, 14
+  orig: 15, 16
+  offset: 1, 1
+  index: -1
+cai_4
+  rotate: false
+  xy: 139, 36
+  size: 30, 30
+  orig: 32, 32
+  offset: 1, 1
+  index: -1
+cai_5
+  rotate: false
+  xy: 140, 152
+  size: 21, 21
+  orig: 23, 23
+  offset: 1, 1
+  index: -1
+cai_6
+  rotate: true
+  xy: 133, 4
+  size: 10, 11
+  orig: 12, 13
+  offset: 1, 1
+  index: -1
+cai_7
+  rotate: true
+  xy: 143, 199
+  size: 27, 23
+  orig: 29, 25
+  offset: 1, 1
+  index: -1
+cai_8
+  rotate: false
+  xy: 143, 228
+  size: 26, 38
+  orig: 28, 40
+  offset: 1, 1
+  index: -1
+cai_9
+  rotate: true
+  xy: 143, 175
+  size: 22, 24
+  orig: 25, 26
+  offset: 1, 1
+  index: -1
+eff_smoke_00
+  rotate: false
+  xy: 57, 2
+  size: 48, 59
+  orig: 69, 73
+  offset: 6, 6
+  index: -1
+eff_smoke_01
+  rotate: false
+  xy: 55, 63
+  size: 46, 61
+  orig: 69, 73
+  offset: 12, 3
+  index: -1
+eff_smoke_02
+  rotate: true
+  xy: 76, 129
+  size: 49, 62
+  orig: 69, 73
+  offset: 11, 4
+  index: -1
+eff_smoke_03
+  rotate: false
+  xy: 2, 61
+  size: 51, 63
+  orig: 69, 73
+  offset: 10, 3
+  index: -1
+eff_smoke_04
+  rotate: false
+  xy: 2, 3
+  size: 53, 56
+  orig: 69, 73
+  offset: 9, 4
+  index: -1
+eff_smoke_05
+  rotate: false
+  xy: 103, 68
+  size: 55, 59
+  orig: 69, 73
+  offset: 8, 4
+  index: -1
+guo
+  rotate: false
+  xy: 2, 180
+  size: 139, 86
+  orig: 141, 88
+  offset: 1, 1
+  index: -1

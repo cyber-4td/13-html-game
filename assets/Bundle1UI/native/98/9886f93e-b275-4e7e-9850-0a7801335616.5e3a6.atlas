@@ -1,0 +1,48 @@
+
+shaokao_bg.png
+size: 1750,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng1_1
+  rotate: false
+  xy: 742, 13
+  size: 731, 122
+  orig: 731, 130
+  offset: 0, 8
+  index: -1
+deng2_1
+  rotate: false
+  xy: 2, 4
+  size: 738, 131
+  orig: 747, 149
+  offset: 0, 8
+  index: -1
+gang1_1
+  rotate: false
+  xy: 2, 137
+  size: 750, 181
+  orig: 752, 183
+  offset: 1, 1
+  index: -1
+gang2_1
+  rotate: false
+  xy: 754, 137
+  size: 750, 181
+  orig: 752, 183
+  offset: 1, 1
+  index: -1
+shu1_1
+  rotate: true
+  xy: 1506, 161
+  size: 157, 242
+  orig: 157, 253
+  offset: 0, 11
+  index: -1
+shu2_1
+  rotate: true
+  xy: 1506, 2
+  size: 157, 242
+  orig: 157, 253
+  offset: 0, 11
+  index: -1

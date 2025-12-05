@@ -1,0 +1,328 @@
+
+actor_12.png
+size: 427,427
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiao1_1
+  rotate: true
+  xy: 385, 351
+  size: 74, 12
+  orig: 74, 12
+  offset: 0, 0
+  index: -1
+jiao1_2
+  rotate: true
+  xy: 413, 278
+  size: 71, 12
+  orig: 71, 12
+  offset: 0, 0
+  index: -1
+jiao1_3
+  rotate: false
+  xy: 244, 87
+  size: 117, 166
+  orig: 117, 166
+  offset: 0, 0
+  index: -1
+jiao1_4
+  rotate: true
+  xy: 413, 205
+  size: 71, 12
+  orig: 71, 12
+  offset: 0, 0
+  index: -1
+jiao1_5
+  rotate: false
+  xy: 320, 73
+  size: 46, 12
+  orig: 46, 13
+  offset: 0, 1
+  index: -1
+jiao2_1
+  rotate: false
+  xy: 244, 73
+  size: 74, 12
+  orig: 74, 12
+  offset: 0, 0
+  index: -1
+jiao2_2
+  rotate: false
+  xy: 146, 58
+  size: 71, 12
+  orig: 71, 12
+  offset: 0, 0
+  index: -1
+jiao2_3
+  rotate: false
+  xy: 139, 255
+  size: 121, 170
+  orig: 121, 170
+  offset: 0, 0
+  index: -1
+jiao2_4
+  rotate: false
+  xy: 146, 44
+  size: 71, 12
+  orig: 71, 12
+  offset: 0, 0
+  index: -1
+jiao2_5
+  rotate: true
+  xy: 239, 24
+  size: 46, 12
+  orig: 46, 13
+  offset: 0, 1
+  index: -1
+jiao2_lian
+  rotate: true
+  xy: 391, 111
+  size: 12, 32
+  orig: 12, 32
+  offset: 0, 0
+  index: -1
+jiao3_1
+  rotate: true
+  xy: 385, 275
+  size: 74, 12
+  orig: 74, 12
+  offset: 0, 0
+  index: -1
+jiao3_2
+  rotate: false
+  xy: 146, 30
+  size: 71, 12
+  orig: 71, 12
+  offset: 0, 0
+  index: -1
+jiao3_3
+  rotate: false
+  xy: 125, 72
+  size: 117, 169
+  orig: 117, 169
+  offset: 0, 0
+  index: -1
+jiao3_4
+  rotate: false
+  xy: 146, 16
+  size: 71, 12
+  orig: 71, 12
+  offset: 0, 0
+  index: -1
+jiao3_5
+  rotate: false
+  xy: 253, 59
+  size: 46, 12
+  orig: 46, 13
+  offset: 0, 1
+  index: -1
+jiao4_1
+  rotate: true
+  xy: 399, 351
+  size: 74, 12
+  orig: 74, 12
+  offset: 0, 0
+  index: -1
+jiao4_2
+  rotate: false
+  xy: 146, 2
+  size: 71, 12
+  orig: 71, 12
+  offset: 0, 0
+  index: -1
+jiao4_3
+  rotate: false
+  xy: 2, 68
+  size: 121, 173
+  orig: 122, 173
+  offset: 1, 0
+  index: -1
+jiao4_4
+  rotate: true
+  xy: 377, 185
+  size: 69, 12
+  orig: 69, 12
+  offset: 0, 0
+  index: -1
+jiao4_5
+  rotate: false
+  xy: 253, 45
+  size: 46, 12
+  orig: 46, 13
+  offset: 0, 1
+  index: -1
+jiao4_lian
+  rotate: true
+  xy: 391, 156
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+jiao5_1
+  rotate: true
+  xy: 413, 351
+  size: 74, 12
+  orig: 74, 12
+  offset: 0, 0
+  index: -1
+jiao5_2
+  rotate: true
+  xy: 363, 183
+  size: 71, 12
+  orig: 71, 12
+  offset: 0, 0
+  index: -1
+jiao5_3
+  rotate: false
+  xy: 262, 256
+  size: 121, 169
+  orig: 121, 169
+  offset: 0, 0
+  index: -1
+jiao5_4
+  rotate: true
+  xy: 132, 2
+  size: 68, 12
+  orig: 68, 12
+  offset: 0, 0
+  index: -1
+jiao5_5
+  rotate: false
+  xy: 301, 59
+  size: 46, 12
+  orig: 46, 13
+  offset: 0, 1
+  index: -1
+jiao5_lian
+  rotate: false
+  xy: 333, 27
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+jiao6_1
+  rotate: true
+  xy: 399, 275
+  size: 74, 12
+  orig: 74, 12
+  offset: 0, 0
+  index: -1
+jiao6_2
+  rotate: true
+  xy: 363, 110
+  size: 71, 12
+  orig: 71, 12
+  offset: 0, 0
+  index: -1
+jiao6_3
+  rotate: false
+  xy: 2, 243
+  size: 135, 182
+  orig: 135, 182
+  offset: 0, 0
+  index: -1
+jiao6_4
+  rotate: true
+  xy: 377, 114
+  size: 69, 12
+  orig: 69, 12
+  offset: 0, 0
+  index: -1
+jiao6_5
+  rotate: false
+  xy: 253, 31
+  size: 46, 12
+  orig: 46, 13
+  offset: 0, 1
+  index: -1
+jiao6_lian
+  rotate: false
+  xy: 219, 25
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+pinmin_1
+  rotate: false
+  xy: 391, 240
+  size: 20, 33
+  orig: 20, 33
+  offset: 0, 0
+  index: -1
+pinmin_10
+  rotate: true
+  xy: 363, 90
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+pinmin_11
+  rotate: true
+  xy: 358, 29
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+pinmin_12
+  rotate: false
+  xy: 391, 208
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+pinmin_2
+  rotate: false
+  xy: 391, 125
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+pinmin_3
+  rotate: true
+  xy: 2, 2
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+pinmin_4
+  rotate: true
+  xy: 74, 8
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+pinmin_5
+  rotate: true
+  xy: 391, 172
+  size: 31, 34
+  orig: 31, 34
+  offset: 0, 0
+  index: -1
+pinmin_6
+  rotate: true
+  xy: 301, 29
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+pinmin_7
+  rotate: false
+  xy: 238, 6
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+pinmin_8
+  rotate: false
+  xy: 219, 6
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+pinmin_9
+  rotate: false
+  xy: 349, 59
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1

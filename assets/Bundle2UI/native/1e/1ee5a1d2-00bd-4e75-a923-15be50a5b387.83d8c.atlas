@@ -1,0 +1,160 @@
+
+kaoyu_jiazai.png
+size: 1826,963
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kaoyu_2
+  rotate: true
+  xy: 2, 211
+  size: 750, 615
+  orig: 752, 814
+  offset: 1, 100
+  index: -1
+kaoyu_3
+  rotate: true
+  xy: 1677, 288
+  size: 125, 126
+  orig: 158, 161
+  offset: 17, 18
+  index: -1
+kaoyu_4
+  rotate: true
+  xy: 1677, 415
+  size: 141, 146
+  orig: 176, 183
+  offset: 18, 19
+  index: -1
+kaoyu_8
+  rotate: false
+  xy: 312, 6
+  size: 269, 203
+  orig: 271, 205
+  offset: 1, 1
+  index: -1
+kaoyu_9
+  rotate: false
+  xy: 583, 12
+  size: 261, 197
+  orig: 263, 199
+  offset: 1, 1
+  index: -1
+kaoyuren_10
+  rotate: true
+  xy: 1780, 663
+  size: 54, 30
+  orig: 56, 32
+  offset: 1, 1
+  index: -1
+kaoyuren_11
+  rotate: true
+  xy: 1744, 558
+  size: 102, 51
+  orig: 104, 53
+  offset: 1, 1
+  index: -1
+kaoyuren_12
+  rotate: true
+  xy: 1744, 662
+  size: 204, 34
+  orig: 206, 36
+  offset: 1, 1
+  index: -1
+kaoyuren_13
+  rotate: true
+  xy: 1169, 224
+  size: 243, 239
+  orig: 245, 241
+  offset: 1, 1
+  index: -1
+kaoyuren_14
+  rotate: false
+  xy: 2, 2
+  size: 308, 207
+  orig: 308, 207
+  offset: 0, 0
+  index: -1
+kaoyuren_15
+  rotate: false
+  xy: 1519, 7
+  size: 171, 221
+  orig: 173, 223
+  offset: 1, 1
+  index: -1
+kaoyuren_16
+  rotate: false
+  xy: 1337, 586
+  size: 405, 375
+  orig: 405, 375
+  offset: 0, 0
+  index: -1
+kaoyuren_17
+  rotate: true
+  xy: 1169, 469
+  size: 212, 166
+  orig: 214, 168
+  offset: 1, 1
+  index: -1
+kaoyuren_18
+  rotate: true
+  xy: 619, 211
+  size: 750, 548
+  orig: 752, 584
+  offset: 1, 1
+  index: -1
+kaoyuren_2
+  rotate: true
+  xy: 846, 13
+  size: 196, 248
+  orig: 198, 250
+  offset: 1, 1
+  index: -1
+kaoyuren_3
+  rotate: true
+  xy: 1096, 12
+  size: 197, 239
+  orig: 200, 241
+  offset: 2, 1
+  index: -1
+kaoyuren_4
+  rotate: true
+  xy: 1169, 683
+  size: 278, 146
+  orig: 280, 149
+  offset: 1, 1
+  index: -1
+kaoyuren_5
+  rotate: false
+  xy: 1337, 5
+  size: 180, 217
+  orig: 182, 219
+  offset: 1, 1
+  index: -1
+kaoyuren_6
+  rotate: true
+  xy: 1780, 788
+  size: 78, 32
+  orig: 80, 35
+  offset: 1, 1
+  index: -1
+kaoyuren_7
+  rotate: false
+  xy: 1744, 868
+  size: 80, 93
+  orig: 82, 95
+  offset: 1, 1
+  index: -1
+kaoyuren_8
+  rotate: true
+  xy: 1410, 230
+  size: 354, 265
+  orig: 356, 267
+  offset: 1, 1
+  index: -1
+kaoyuren_9
+  rotate: true
+  xy: 1780, 719
+  size: 67, 25
+  orig: 69, 27
+  offset: 1, 1
+  index: -1

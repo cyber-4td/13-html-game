@@ -1,0 +1,48 @@
+
+eff_piaoliu_up.png
+size: 717,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shui1
+  rotate: false
+  xy: 471, 51
+  size: 168, 61
+  orig: 168, 70
+  offset: 0, 2
+  index: -1
+shui2
+  rotate: true
+  xy: 641, 6
+  size: 106, 74
+  orig: 106, 76
+  offset: 0, 2
+  index: -1
+shui3
+  rotate: false
+  xy: 471, 11
+  size: 119, 38
+  orig: 119, 39
+  offset: 0, 1
+  index: -1
+shui4
+  rotate: false
+  xy: 326, 24
+  size: 143, 88
+  orig: 144, 89
+  offset: 0, 0
+  index: -1
+shui5
+  rotate: false
+  xy: 326, 9
+  size: 17, 13
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+shuibo
+  rotate: false
+  xy: 2, 2
+  size: 322, 110
+  orig: 322, 114
+  offset: 0, 1
+  index: -1

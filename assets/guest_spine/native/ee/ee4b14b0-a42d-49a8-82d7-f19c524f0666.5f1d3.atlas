@@ -1,0 +1,251 @@
+
+guest_18.png
+size: 205,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+XL_xiezhan_10
+  rotate: true
+  xy: 138, 2
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+XL_xiezhan_11
+  rotate: true
+  xy: 73, 156
+  size: 47, 77
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+XL_xiezhan_12
+  rotate: false
+  xy: 2, 79
+  size: 69, 124
+  orig: 69, 124
+  offset: 0, 0
+  index: -1
+XL_xiezhan_2
+  rotate: false
+  xy: 152, 164
+  size: 47, 39
+  orig: 49, 39
+  offset: 2, 0
+  index: -1
+XL_xiezhan_3
+  rotate: true
+  xy: 117, 51
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+XL_xiezhan_4
+  rotate: false
+  xy: 161, 124
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+XL_xiezhan_5
+  rotate: false
+  xy: 177, 52
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+XL_xiezhan_6
+  rotate: true
+  xy: 111, 82
+  size: 20, 52
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+XL_xiezhan_7
+  rotate: false
+  xy: 2, 22
+  size: 57, 55
+  orig: 57, 55
+  offset: 0, 0
+  index: -1
+XL_xiezhan_8
+  rotate: false
+  xy: 117, 104
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+XL_xiezhan_9
+  rotate: true
+  xy: 138, 25
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+XL_xiezuo_1
+  rotate: false
+  xy: 61, 27
+  size: 54, 50
+  orig: 55, 50
+  offset: 1, 0
+  index: -1
+body
+  rotate: true
+  xy: 73, 115
+  size: 39, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+body_sleep
+  rotate: false
+  xy: 73, 100
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+body_soak
+  rotate: false
+  xy: 73, 85
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+bu
+  rotate: false
+  xy: 61, 3
+  size: 48, 22
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+ca
+  rotate: false
+  xy: 111, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+face_sleep
+  rotate: true
+  xy: 169, 17
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+hand_a1
+  rotate: false
+  xy: 117, 28
+  size: 19, 21
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+hand_a2
+  rotate: false
+  xy: 2, 2
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+hand_b1
+  rotate: false
+  xy: 161, 105
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+hand_b2
+  rotate: true
+  xy: 187, 140
+  size: 22, 15
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+huajia_xiezhan_1
+  rotate: true
+  xy: 50, 9
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+huajia_xiezuo_1
+  rotate: true
+  xy: 50, 9
+  size: 11, 8
+  orig: 11, 8
+  offset: 0, 0
+  index: -1
+huajia_xiezhan_2
+  rotate: false
+  xy: 152, 157
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+huajia_xiezuo_2
+  rotate: false
+  xy: 152, 157
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+huajia_xiezhan_3
+  rotate: false
+  xy: 165, 82
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+huajia_xiezuo_3
+  rotate: false
+  xy: 165, 82
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+kuaizi
+  rotate: true
+  xy: 50, 6
+  size: 1, 8
+  orig: 1, 8
+  offset: 0, 0
+  index: -1
+mouth_speak
+  rotate: true
+  xy: 109, 143
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+music_1
+  rotate: false
+  xy: 187, 117
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+music_2
+  rotate: true
+  xy: 26, 2
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+music_3
+  rotate: true
+  xy: 166, 2
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+music_4
+  rotate: true
+  xy: 109, 130
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1
+sleep_paopao
+  rotate: false
+  xy: 186, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1

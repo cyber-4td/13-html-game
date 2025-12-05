@@ -1,0 +1,167 @@
+
+staff_10.png
+size: 331,331
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daxiao_1
+  rotate: false
+  xy: 265, 108
+  size: 60, 41
+  orig: 63, 44
+  offset: 1, 1
+  index: -1
+daxiao_2
+  rotate: true
+  xy: 265, 35
+  size: 71, 44
+  orig: 73, 69
+  offset: 1, 24
+  index: -1
+lv_1
+  rotate: false
+  xy: 78, 4
+  size: 109, 29
+  orig: 111, 31
+  offset: 1, 1
+  index: -1
+lv_10
+  rotate: true
+  xy: 2, 2
+  size: 31, 74
+  orig: 31, 74
+  offset: 0, 0
+  index: -1
+lv_11
+  rotate: false
+  xy: 94, 43
+  size: 86, 102
+  orig: 88, 104
+  offset: 1, 1
+  index: -1
+lv_12
+  rotate: false
+  xy: 189, 12
+  size: 25, 82
+  orig: 25, 82
+  offset: 0, 0
+  index: -1
+lv_13
+  rotate: true
+  xy: 2, 35
+  size: 110, 90
+  orig: 112, 92
+  offset: 1, 1
+  index: -1
+lv_14
+  rotate: true
+  xy: 216, 63
+  size: 39, 42
+  orig: 41, 44
+  offset: 1, 1
+  index: -1
+lv_15
+  rotate: true
+  xy: 273, 237
+  size: 45, 54
+  orig: 47, 56
+  offset: 1, 1
+  index: -1
+lv_16
+  rotate: true
+  xy: 216, 35
+  size: 26, 42
+  orig: 28, 44
+  offset: 1, 1
+  index: -1
+lv_17
+  rotate: true
+  xy: 273, 196
+  size: 39, 53
+  orig: 41, 55
+  offset: 1, 1
+  index: -1
+lv_18
+  rotate: true
+  xy: 273, 196
+  size: 39, 53
+  orig: 41, 55
+  offset: 1, 1
+  index: -1
+lv_2
+  rotate: true
+  xy: 311, 26
+  size: 80, 11
+  orig: 83, 13
+  offset: 1, 1
+  index: -1
+lv_3
+  rotate: true
+  xy: 189, 109
+  size: 22, 8
+  orig: 24, 10
+  offset: 1, 1
+  index: -1
+lv_4
+  rotate: true
+  xy: 182, 133
+  size: 13, 16
+  orig: 15, 18
+  offset: 1, 1
+  index: -1
+lv_5
+  rotate: true
+  xy: 182, 96
+  size: 11, 14
+  orig: 13, 16
+  offset: 1, 1
+  index: -1
+lv_6
+  rotate: true
+  xy: 273, 151
+  size: 43, 48
+  orig: 45, 50
+  offset: 1, 1
+  index: -1
+lv_7
+  rotate: true
+  xy: 273, 284
+  size: 45, 55
+  orig: 47, 57
+  offset: 1, 1
+  index: -1
+lv_8
+  rotate: true
+  xy: 216, 9
+  size: 24, 38
+  orig: 26, 41
+  offset: 1, 2
+  index: -1
+lv_9
+  rotate: false
+  xy: 2, 147
+  size: 169, 182
+  orig: 171, 184
+  offset: 1, 1
+  index: -1
+money
+  rotate: true
+  xy: 201, 104
+  size: 60, 62
+  orig: 60, 62
+  offset: 0, 0
+  index: -1
+yu
+  rotate: true
+  xy: 173, 166
+  size: 163, 98
+  orig: 165, 100
+  offset: 1, 1
+  index: -1
+zheng_4
+  rotate: false
+  xy: 173, 148
+  size: 26, 16
+  orig: 28, 18
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,20 @@
+
+eff_shouzhi.png
+size: 255,255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan
+  rotate: false
+  xy: 2, 89
+  size: 143, 164
+  orig: 143, 165
+  offset: 0, 0
+  index: -1
+shouzhi
+  rotate: false
+  xy: 2, 2
+  size: 87, 85
+  orig: 88, 85
+  offset: 1, 0
+  index: -1

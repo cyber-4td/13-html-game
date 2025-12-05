@@ -1,0 +1,167 @@
+
+staff_2.png
+size: 189,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beida_1
+  rotate: true
+  xy: 85, 51
+  size: 38, 33
+  orig: 39, 34
+  offset: 1, 0
+  index: -1
+daxiao_1
+  rotate: true
+  xy: 139, 111
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+daxiao_2
+  rotate: false
+  xy: 123, 4
+  size: 31, 19
+  orig: 31, 29
+  offset: 0, 10
+  index: -1
+laobai_1
+  rotate: true
+  xy: 87, 3
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+laobai_10
+  rotate: true
+  xy: 118, 139
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+laobai_11
+  rotate: false
+  xy: 147, 139
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+laobai_112
+  rotate: false
+  xy: 167, 179
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+laobai_12
+  rotate: false
+  xy: 116, 25
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+laobai_13
+  rotate: false
+  xy: 2, 90
+  size: 71, 97
+  orig: 76, 97
+  offset: 5, 0
+  index: -1
+laobai_14
+  rotate: false
+  xy: 46, 22
+  size: 37, 66
+  orig: 37, 66
+  offset: 0, 0
+  index: -1
+laobai_15
+  rotate: false
+  xy: 75, 91
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+laobai_16
+  rotate: true
+  xy: 54, 3
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1
+laobai_17
+  rotate: true
+  xy: 29, 4
+  size: 13, 23
+  orig: 14, 26
+  offset: 1, 2
+  index: -1
+laobai_2
+  rotate: true
+  xy: 108, 96
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+laobai_3
+  rotate: true
+  xy: 120, 54
+  size: 9, 24
+  orig: 9, 24
+  offset: 0, 0
+  index: -1
+laobai_4
+  rotate: true
+  xy: 143, 163
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+laobai_5
+  rotate: true
+  xy: 85, 24
+  size: 25, 29
+  orig: 25, 34
+  offset: 0, 5
+  index: -1
+laobai_6
+  rotate: true
+  xy: 2, 2
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+laobai_7
+  rotate: true
+  xy: 75, 135
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+laobai_8
+  rotate: false
+  xy: 120, 65
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+laobai_9
+  rotate: false
+  xy: 118, 162
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+yu
+  rotate: true
+  xy: 2, 19
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+zheng_4
+  rotate: true
+  xy: 167, 165
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1

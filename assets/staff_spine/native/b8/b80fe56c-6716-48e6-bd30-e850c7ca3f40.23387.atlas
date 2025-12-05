@@ -1,0 +1,146 @@
+
+staff_6.png
+size: 247,139
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZG_F_1
+  rotate: true
+  xy: 182, 63
+  size: 27, 7
+  orig: 27, 7
+  offset: 0, 0
+  index: -1
+ZG_F_10
+  rotate: false
+  xy: 221, 27
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+ZG_X_5
+  rotate: false
+  xy: 221, 27
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+ZG_F_2
+  rotate: false
+  xy: 2, 60
+  size: 69, 77
+  orig: 69, 77
+  offset: 0, 0
+  index: -1
+ZG_F_3
+  rotate: false
+  xy: 189, 105
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+ZG_F_4
+  rotate: true
+  xy: 186, 92
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+ZG_F_5
+  rotate: false
+  xy: 119, 5
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+ZG_F_6
+  rotate: true
+  xy: 2, 2
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+ZG_F_7
+  rotate: false
+  xy: 136, 61
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+ZG_F_8
+  rotate: true
+  xy: 189, 6
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+ZG_F_9
+  rotate: false
+  xy: 159, 61
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+ZG_X_4
+  rotate: false
+  xy: 159, 61
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+ZG_X_1
+  rotate: true
+  xy: 212, 34
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+ZG_X_10
+  rotate: false
+  xy: 189, 31
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+ZG_X_2
+  rotate: false
+  xy: 73, 61
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+ZG_X_3
+  rotate: true
+  xy: 212, 59
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+ZG_X_6
+  rotate: false
+  xy: 221, 2
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+ZG_X_7
+  rotate: false
+  xy: 54, 3
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+ZG_X_8
+  rotate: false
+  xy: 136, 92
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+ZG_X_9
+  rotate: false
+  xy: 191, 67
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1

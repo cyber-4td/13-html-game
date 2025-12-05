@@ -1,0 +1,132 @@
+
+staff_3.png
+size: 157,157
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guozay_gai_1
+  rotate: true
+  xy: 69, 64
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+guozay_gai_2
+  rotate: false
+  xy: 69, 101
+  size: 50, 54
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+guozay_gai_3
+  rotate: true
+  xy: 2, 4
+  size: 13, 45
+  orig: 13, 45
+  offset: 0, 0
+  index: -1
+guozay_gai_4
+  rotate: false
+  xy: 2, 75
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+guozay_gai_6
+  rotate: false
+  xy: 2, 19
+  size: 52, 54
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+guozay_xie_1
+  rotate: false
+  xy: 56, 66
+  size: 10, 7
+  orig: 10, 7
+  offset: 0, 0
+  index: -1
+guozay_xie_11
+  rotate: true
+  xy: 127, 82
+  size: 20, 28
+  orig: 20, 29
+  offset: 0, 1
+  index: -1
+guozay_xie_12
+  rotate: false
+  xy: 93, 18
+  size: 14, 23
+  orig: 15, 23
+  offset: 1, 0
+  index: -1
+guozay_xie_14
+  rotate: false
+  xy: 121, 104
+  size: 30, 51
+  orig: 31, 52
+  offset: 1, 1
+  index: -1
+guozay_xie_2
+  rotate: false
+  xy: 125, 44
+  size: 30, 18
+  orig: 30, 19
+  offset: 0, 1
+  index: -1
+guozay_xie_6
+  rotate: false
+  xy: 56, 2
+  size: 20, 32
+  orig: 21, 32
+  offset: 1, 0
+  index: -1
+guozay_xie_7
+  rotate: false
+  xy: 78, 9
+  size: 13, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+guozay_xie_8
+  rotate: true
+  xy: 127, 64
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+staff_3_jing_2
+  rotate: false
+  xy: 109, 31
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+staff_3_kuku
+  rotate: false
+  xy: 56, 36
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+tuitui_1
+  rotate: false
+  xy: 107, 64
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+tuitui_2
+  rotate: true
+  xy: 88, 43
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+zheng_4
+  rotate: false
+  xy: 93, 8
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1

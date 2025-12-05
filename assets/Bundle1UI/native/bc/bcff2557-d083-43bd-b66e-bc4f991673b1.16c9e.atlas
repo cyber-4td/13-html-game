@@ -1,0 +1,13 @@
+
+rabbit.png
+size: 90,117
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rb
+  rotate: false
+  xy: 2, 2
+  size: 86, 113
+  orig: 86, 113
+  offset: 0, 0
+  index: -1

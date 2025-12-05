@@ -1,0 +1,62 @@
+
+eff_cleansmoke.png
+size: 269,511
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_cleansmoke_00
+  rotate: false
+  xy: 2, 273
+  size: 142, 116
+  orig: 145, 143
+  offset: 1, 8
+  index: -1
+eff_cleansmoke_01
+  rotate: false
+  xy: 2, 391
+  size: 144, 118
+  orig: 145, 143
+  offset: 0, 9
+  index: -1
+eff_cleansmoke_02
+  rotate: true
+  xy: 148, 389
+  size: 120, 118
+  orig: 145, 143
+  offset: 0, 11
+  index: -1
+eff_cleansmoke_03
+  rotate: false
+  xy: 143, 146
+  size: 124, 112
+  orig: 145, 143
+  offset: 0, 8
+  index: -1
+eff_cleansmoke_04
+  rotate: true
+  xy: 146, 260
+  size: 127, 117
+  orig: 145, 143
+  offset: 1, 4
+  index: -1
+eff_cleansmoke_05
+  rotate: true
+  xy: 143, 15
+  size: 129, 122
+  orig: 145, 143
+  offset: 2, 5
+  index: -1
+eff_cleansmoke_06
+  rotate: false
+  xy: 2, 2
+  size: 133, 130
+  orig: 145, 143
+  offset: 3, 5
+  index: -1
+eff_cleansmoke_07
+  rotate: true
+  xy: 2, 134
+  size: 137, 139
+  orig: 145, 143
+  offset: 3, 1
+  index: -1

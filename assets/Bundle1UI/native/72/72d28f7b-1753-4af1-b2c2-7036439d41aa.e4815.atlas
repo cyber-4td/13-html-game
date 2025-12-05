@@ -1,0 +1,139 @@
+
+ignite_1.png
+size: 225,782
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_fire_00
+  rotate: true
+  xy: 121, 303
+  size: 72, 102
+  orig: 128, 128
+  offset: 27, 0
+  index: -1
+eff_fire_01
+  rotate: true
+  xy: 114, 2
+  size: 72, 108
+  orig: 128, 128
+  offset: 27, 0
+  index: -1
+eff_fire_02
+  rotate: true
+  xy: 2, 215
+  size: 75, 113
+  orig: 128, 128
+  offset: 26, 0
+  index: -1
+eff_fire_03
+  rotate: true
+  xy: 2, 292
+  size: 75, 115
+  orig: 128, 128
+  offset: 26, 0
+  index: -1
+eff_fire_04
+  rotate: true
+  xy: 2, 369
+  size: 73, 117
+  orig: 128, 128
+  offset: 26, 0
+  index: -1
+eff_fire_05
+  rotate: true
+  xy: 2, 444
+  size: 75, 120
+  orig: 128, 128
+  offset: 24, 0
+  index: -1
+eff_fire_06
+  rotate: false
+  xy: 132, 562
+  size: 81, 123
+  orig: 128, 128
+  offset: 21, 0
+  index: -1
+eff_fire_07
+  rotate: true
+  xy: 2, 603
+  size: 80, 128
+  orig: 128, 128
+  offset: 21, 0
+  index: -1
+eff_fire_08
+  rotate: true
+  xy: 2, 521
+  size: 80, 125
+  orig: 128, 128
+  offset: 21, 0
+  index: -1
+eff_fire_09
+  rotate: true
+  xy: 2, 62
+  size: 76, 110
+  orig: 128, 128
+  offset: 25, 0
+  index: -1
+eff_fire_10
+  rotate: false
+  xy: 129, 451
+  size: 77, 109
+  orig: 128, 128
+  offset: 25, 0
+  index: -1
+eff_fire_11
+  rotate: true
+  xy: 2, 140
+  size: 73, 112
+  orig: 128, 128
+  offset: 27, 0
+  index: -1
+eff_fire_12
+  rotate: true
+  xy: 117, 152
+  size: 73, 96
+  orig: 128, 128
+  offset: 25, 0
+  index: -1
+eff_fire_13
+  rotate: true
+  xy: 116, 76
+  size: 74, 95
+  orig: 128, 128
+  offset: 25, 0
+  index: -1
+eff_fire_14
+  rotate: true
+  xy: 119, 227
+  size: 74, 96
+  orig: 128, 128
+  offset: 25, 0
+  index: -1
+eff_fire_15
+  rotate: true
+  xy: 124, 377
+  size: 72, 97
+  orig: 128, 128
+  offset: 26, 0
+  index: -1
+huochai_1
+  rotate: true
+  xy: 2, 22
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+shou_1
+  rotate: false
+  xy: 2, 685
+  size: 128, 95
+  orig: 128, 95
+  offset: 0, 0
+  index: -1
+shou_2
+  rotate: true
+  xy: 132, 687
+  size: 93, 90
+  orig: 93, 90
+  offset: 0, 0
+  index: -1

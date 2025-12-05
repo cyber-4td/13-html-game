@@ -1,0 +1,76 @@
+
+eff_jiasu.png
+size: 500,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qi_00
+  rotate: false
+  xy: 2, 231
+  size: 128, 107
+  orig: 128, 128
+  offset: 0, 2
+  index: -1
+qi_01
+  rotate: false
+  xy: 2, 20
+  size: 128, 101
+  orig: 128, 128
+  offset: 0, 4
+  index: -1
+qi_02
+  rotate: false
+  xy: 262, 105
+  size: 128, 103
+  orig: 128, 128
+  offset: 0, 4
+  index: -1
+qi_03
+  rotate: true
+  xy: 392, 210
+  size: 128, 106
+  orig: 128, 128
+  offset: 0, 4
+  index: -1
+qi_04
+  rotate: false
+  xy: 132, 231
+  size: 128, 107
+  orig: 128, 128
+  offset: 0, 1
+  index: -1
+qi_05
+  rotate: false
+  xy: 2, 123
+  size: 128, 106
+  orig: 128, 128
+  offset: 0, 2
+  index: -1
+qi_06
+  rotate: false
+  xy: 132, 2
+  size: 128, 101
+  orig: 128, 128
+  offset: 0, 4
+  index: -1
+qi_07
+  rotate: true
+  xy: 392, 80
+  size: 128, 103
+  orig: 128, 128
+  offset: 0, 4
+  index: -1
+qi_08
+  rotate: false
+  xy: 132, 123
+  size: 128, 106
+  orig: 128, 128
+  offset: 0, 4
+  index: -1
+qi_09
+  rotate: false
+  xy: 262, 231
+  size: 128, 107
+  orig: 128, 128
+  offset: 0, 1
+  index: -1

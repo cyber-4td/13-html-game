@@ -1,0 +1,90 @@
+
+rabbit.png
+size: 189,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rabbit_1
+  rotate: false
+  xy: 151, 56
+  size: 19, 19
+  orig: 21, 21
+  offset: 1, 1
+  index: -1
+rabbit_10
+  rotate: false
+  xy: 2, 108
+  size: 115, 79
+  orig: 117, 81
+  offset: 1, 1
+  index: -1
+rabbit_11
+  rotate: false
+  xy: 119, 133
+  size: 65, 54
+  orig: 67, 56
+  offset: 1, 1
+  index: -1
+rabbit_12
+  rotate: false
+  xy: 2, 47
+  size: 126, 59
+  orig: 128, 62
+  offset: 1, 2
+  index: -1
+rabbit_2
+  rotate: false
+  xy: 71, 12
+  size: 38, 33
+  orig: 40, 36
+  offset: 1, 1
+  index: -1
+rabbit_3
+  rotate: true
+  xy: 119, 111
+  size: 20, 28
+  orig: 22, 30
+  offset: 1, 1
+  index: -1
+rabbit_4
+  rotate: true
+  xy: 111, 11
+  size: 34, 27
+  orig: 36, 30
+  offset: 1, 1
+  index: -1
+rabbit_5
+  rotate: false
+  xy: 130, 54
+  size: 19, 21
+  orig: 21, 23
+  offset: 1, 1
+  index: -1
+rabbit_6
+  rotate: false
+  xy: 2, 9
+  size: 67, 36
+  orig: 69, 38
+  offset: 1, 1
+  index: -1
+rabbit_7
+  rotate: false
+  xy: 149, 105
+  size: 38, 26
+  orig: 40, 28
+  offset: 1, 1
+  index: -1
+rabbit_8
+  rotate: false
+  xy: 149, 77
+  size: 38, 26
+  orig: 40, 28
+  offset: 1, 1
+  index: -1
+rabbit_9
+  rotate: true
+  xy: 130, 80
+  size: 29, 17
+  orig: 31, 19
+  offset: 1, 1
+  index: -1

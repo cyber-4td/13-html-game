@@ -1,0 +1,118 @@
+
+staff_18.png
+size: 158,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhan_1
+  rotate: false
+  xy: 127, 103
+  size: 9, 53
+  orig: 9, 53
+  offset: 0, 0
+  index: -1
+zhan_10
+  rotate: false
+  xy: 139, 65
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+zhan_11
+  rotate: true
+  xy: 138, 111
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+zhan_2
+  rotate: false
+  xy: 2, 73
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+zhan_3
+  rotate: true
+  xy: 67, 69
+  size: 9, 53
+  orig: 9, 53
+  offset: 0, 0
+  index: -1
+zhan_4
+  rotate: true
+  xy: 31, 2
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+zhan_5
+  rotate: true
+  xy: 59, 7
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+zhan_6
+  rotate: false
+  xy: 106, 23
+  size: 31, 44
+  orig: 31, 44
+  offset: 0, 0
+  index: -1
+zhan_7
+  rotate: true
+  xy: 56, 23
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+zhan_8
+  rotate: false
+  xy: 139, 84
+  size: 17, 25
+  orig: 17, 25
+  offset: 0, 0
+  index: -1
+zhan_9
+  rotate: false
+  xy: 139, 37
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+zuo_1
+  rotate: false
+  xy: 138, 130
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+zuo_2
+  rotate: false
+  xy: 2, 2
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+zuo_3
+  rotate: true
+  xy: 88, 6
+  size: 15, 26
+  orig: 15, 26
+  offset: 0, 0
+  index: -1
+zuo_4
+  rotate: false
+  xy: 67, 80
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+zuo_6
+  rotate: false
+  xy: 2, 22
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1

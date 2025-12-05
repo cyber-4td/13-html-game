@@ -1,0 +1,41 @@
+
+icon_hard_tips.png
+size: 400,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 6
+  size: 311, 75
+  orig: 311, 75
+  offset: 0, 0
+  index: -1
+z1
+  rotate: false
+  xy: 358, 2
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+z2
+  rotate: false
+  xy: 358, 42
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+z3
+  rotate: false
+  xy: 315, 41
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+z4
+  rotate: true
+  xy: 315, 2
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
